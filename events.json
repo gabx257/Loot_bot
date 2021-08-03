@@ -1,0 +1,36 @@
+{
+    "95782": {
+        "ip": "-",
+        "date": "3-8",
+        "leader": "ddd",
+        "where": null,
+        "status": "running",
+        "amount": 1000001400,
+        "time": 16,
+        "participants": {
+            "ddd": {
+                "start": [
+                    14,
+                    48,
+                    25,
+                    3,
+                    8
+                ],
+                "spent": 16,
+                "participation": 1.0
+            },
+            "Tomate": {
+                "start": [
+                    14,
+                    48,
+                    34,
+                    3,
+                    8
+                ],
+                "spent": 7,
+                "participation": 0.44
+            }
+        },
+        "summary": 872128856558043226
+    }
+}
