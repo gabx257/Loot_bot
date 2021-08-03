@@ -1,5 +1,5 @@
 import asyncio
-
+from ping import keep_alive
 import discord
 from discord.ext import commands
 
@@ -321,4 +321,5 @@ bot.add_cog(Admin())
 bot.check(suport_functions.checkServer)
 bot.check(suport_functions.checkEvent)
 
+keep_alive()
 bot.run(token)
