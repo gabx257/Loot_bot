@@ -7,7 +7,7 @@ import event
 import suport_functions
 import wallet
 
-token = "ODU3OTM4NDkxOTAzNTc0MDI2.YNW3fA.BZRjvufi2QwDbLciFI6RqHGK8oA"
+token = "Token"
 intents = discord.Intents.default()
 intents.members = True
 bot = commands.Bot(command_prefix='%', intents=intents)
